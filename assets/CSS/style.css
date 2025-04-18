@@ -195,12 +195,9 @@ footer {
   .thumbnail {
     margin-bottom: 10px;
   }
-
-  .tv-shows-header {
-    flex-direction: column;
-    align-items: flex-start;
+  .tv-shows-title {
+    font-size: 1.5rem;
   }
-
   .genre-dropdown-container {
     margin-top: 10px;
   }
