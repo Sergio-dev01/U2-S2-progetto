@@ -1,0 +1,62 @@
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.container {
+  max-width: 960px;
+  margin: 40px auto;
+}
+
+.netflix-logo {
+  height: 40px;
+}
+
+h1 {
+  font-size: 2rem;
+  color: white;
+}
+
+.section {
+  padding-top: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.text-input,
+.language-select,
+.form-control,
+.form-select {
+  border: none;
+  font-size: 1rem;
+  padding: 0.75rem;
+}
+
+input:focus,
+select:focus {
+  outline: none;
+  box-shadow: none;
+}
+.maturity-button {
+  background-color: #333;
+  border: none;
+  color: #fff;
+  padding: 6px 12px;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+  margin-bottom: 10px;
+}
+
+.edit-button {
+  background-color: #000;
+  border: 1px solid #666;
+  color: #666;
+  padding: 4px 20px;
+  text-transform: uppercase;
+  font-size: 0.7rem;
+  letter-spacing: 1px;
+}
+.btn-no-radius {
+  border-radius: 0 !important;
+}
